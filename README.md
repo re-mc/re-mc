@@ -1,11 +1,12 @@
-- 👋 Hi, I’m @re-mc
-- 👀 I’m interested in HTML, c++ and python
-- 🌱 I'm an intermediate to advanced python programmer
-- 💞️ I’m looking to collaborate on Anything python related.
-- 📫 How to reach me email: wynotswitch@gmail.com
+<h1>re-mc... aka AitherNight</h1>
+<h4>Currently Creating Something Not Worth Mentioning</h4>
 
--Also, my website is re-mc.github.io , i have some cool stuff on there! (BEWARE i have two viruses on my site! 'chromeboost'
-  is a web-based virus, that repeatedly open new tabs. 'get-spanked' is a windows batch virus that opens new cmd windows repeatedly.)
+I write pretty much everything in python, although I know a bit of rust, cpp, lua, bash, and probably something else.
+
+Join my amazing discord server: https://discord.gg/2qVyjBHHxa
+
+Email: wynotswitch@gmail.com
+
 
 <!---
 re-mc/re-mc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
